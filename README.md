@@ -1,5 +1,4 @@
 ---
-
 # Aethon
 
 *Aethon* is a 2.5D puzzle / point-and-click game built in Godot 4.6. The game focuses on slow, deliberate interaction, where players must commit to actions while the environment becomes increasingly unstable.
