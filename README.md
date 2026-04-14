@@ -63,4 +63,3 @@ Or launch:
 
 ---
 
-## Project Structure (Simplified)
